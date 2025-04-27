@@ -2,12 +2,9 @@
 myenv/
 llm-env/
 venv/
-commodity_model_rf.pkl
 crop_irrigation_dataset.csv
 recommed.csv
 trained_plant_disease_model.keras
-irrigation_model.pkl
-encoder.pkl
 create_memory_for_llm.py
 irrigatrion.py
 medibot.py
